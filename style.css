@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  body {
+    font-family: 'Lora', serif;
+    rotate: size adjust 40px; ;
+    
+  }
+  .title{
+     background-color: red;
+      justify-content: center;
+      text-align: center;
+      height: auto;
+      padding: auto;
+      background-color: red, transparent;
+      font: size 30px;
+      font-weight: bold;
+
+
+  }
+  
+  .container {
+    width: 750 px;
+    height: 750px; ;
+   
+   
+    
+    align-items: center;
+    align-content: center;
+    text-align: center;
+ background-color:blue;
+  }
+  .weather {
+    display: auto; 
+    align-items: center;
+    text-align: center;
+    margin: 15px 0;
+    font-size: 1.5rem;
+    padding-bottom: 5rem;
+  }
+  #location {
+    font-size: 3rem;
+    font-weight: 800;
+    font-style: italic;
+    padding-top: 3 rem;
+  }
+  .desc {
+    font-size: 1.25rem;
+    text-transform: capitalize;
+  }
+  .circle {
+    background-color: black;
+    border-radius: 50px;
+    height: 15px;
+    width: 15px;
+    margin: 0 15px;
+    align-items: center;
+  }
+  .info{
+      text-size-adjust: 60px ;
+  }
+#weathericon{
+    padding-top: 5 rem;
+
+}
